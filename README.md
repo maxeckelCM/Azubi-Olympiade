@@ -1,6 +1,6 @@
-# Bewegungsstation · Azubi-Tag
+# Azubi-Olympiade · Bewegungsstation
 
-Web-App zum Erfassen der Punkte an der Bewegungsstation: Werteingabe, Timer und
+Web-App zum Erfassen der Punkte an der Bewegungsstation der Azubi-Olympiade: Werteingabe, Timer und
 Gesamtauswertung für zwei Teams. Läuft im Browser auf dem Handy, **auch ohne
 Internet**, und speichert alle Eingaben auf dem Gerät.
 

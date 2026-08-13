@@ -3,7 +3,7 @@
    wenn in der Turnhalle kein Netz ist. Bei jeder Änderung an der App
    die Versionsnummer unten erhöhen, damit die Geräte die neue Version laden. */
 
-const VERSION = 'bewegungsstation-v1';
+const VERSION = 'bewegungsstation-v3';
 const ASSETS = [
   './',
   './index.html',
