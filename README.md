@@ -10,7 +10,7 @@ Eine Datei, keine Installation, kein Server, keine Datenübertragung.
 
 ## Für die Fachkraft vor Ort
 
-1. Die Adresse der App im Handy-Browser öffnen (Link vom Team, siehe unten).
+1. Die App im Handy-Browser öffnen: **https://maxeckelcm.github.io/Azubi-Olympiade/**
 2. **Einmal zum Startbildschirm hinzufügen** – dann startet sie wie eine App und
    funktioniert in der Halle auch ohne Netz:
    - **iPhone (Safari):** Teilen-Symbol → *Zum Home-Bildschirm*
@@ -58,10 +58,10 @@ Wandsitzen ist das Backup bei ungeeignetem Boden. Nur die gewählte Variante zä
    dann *Commit changes*.
 3. **Settings → Pages**: unter *Build and deployment* → *Source* **Deploy from a
    branch**, Branch `main`, Ordner `/ (root)` → *Save*.
-4. Nach ein bis zwei Minuten ist die App erreichbar unter
-   `https://<benutzername>.github.io/bewegungsstation/`
-5. Diesen Link an die Fachkraft geben – am einfachsten als QR-Code
-   (z. B. im Browser über *Teilen → QR-Code erstellen*), dann muss nichts getippt werden.
+4. Nach ein bis zwei Minuten ist die App erreichbar – hier läuft sie unter
+   **https://maxeckelcm.github.io/Azubi-Olympiade/**
+5. Link und QR-Code stehen in `Anleitung_Bewegungsstation_CM.pdf` – dieses PDF an die
+   Fachkraft weitergeben, dann muss nichts getippt werden.
 
 > **Hinweis zur Sichtbarkeit:** GitHub Pages ist in kostenlosen Konten nur für
 > **öffentliche** Repositories verfügbar. Damit wären App und Company-Move-Logo
@@ -85,6 +85,7 @@ dem Installieren als App. Alternativ in einen Cloud-Ordner legen und den Freigab
 | `manifest.webmanifest` | Name, Farben und Icons für die Installation als App |
 | `sw.js` | Service Worker – speichert die App fürs Offline-Öffnen |
 | `icons/` | App-Icons (192, 512, maskable, Apple Touch) |
+| `Anleitung_Bewegungsstation_CM.pdf` | zweiseitige Anleitung für die Fachkraft, mit Link und QR-Code |
 
 ## Änderungen einpflegen
 
